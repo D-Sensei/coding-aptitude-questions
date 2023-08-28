@@ -34,3 +34,5 @@ Here's a markdown table representing the positions of the alphabet from a to z w
 | z        | 26       |
 
 ## Explaination
+![Delhi-haryana](https://github.com/D-Sensei/coding-aptitude-questions/blob/main/Accenture/28%2BAug%2B2023/000-resc/b6e99020-8c83-4a7a-bbe2-7877884ed828.jpg)
+
